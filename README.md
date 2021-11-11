@@ -15,3 +15,4 @@ To run the mini-shell, simply run the script as:
 
     python3 main.py
     
+NOTE: This program was tested on Windows using WSL. It won't run on Windows, and it may or may not run on Mac.
