@@ -12,5 +12,6 @@ Here are some of the things the shell is capable of doing:
 - Print an error message when a command is not found
 
 To run the mini-shell, simply run the script as:
+
     python3 main.py
     
